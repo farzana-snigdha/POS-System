@@ -1,13 +1,13 @@
 # POS System
  A desktop application for business industries to manage the basic transactions
  
-##Platform:
+## Platform:
 Intellij by Jetbrains, Oracle(11g)
 
-##Programming Language:
+## Programming Language:
 Java Swing and SQl
 
-##Features:
+## Features:
 The software has two types of access - Admin level access & Employee level access
 Without the permission of the admin , the employee cannot have access to the application
 Admin needs to register the employee, before that employee can access the application
