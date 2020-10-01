@@ -22,3 +22,8 @@ Java Swing and SQl
        * He also has access to the product inventory
        * He can make a sale and then print or generate pdf the invoice for that sale
    
+#### This Project is created by (alphabetically) -
+    * Farzana Tabassum
+    * Sabrina Islam
+    * Siana Rizwan
+ ##### and supervised by Bakhtiar Hasan
